@@ -1,1 +1,1 @@
-web: gunicorn thehood.wsgi
+web: gunicorn hood.wsgi
